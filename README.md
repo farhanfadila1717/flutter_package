@@ -2,9 +2,17 @@
 ## Flutter & Dart Package
 Flutter & Dart managed create by me **Farhan Fadila**. Feel free to modified, send pr, create issues.
 
+---
+
 ### `drag_ball`
 [![badge dragball][]][pub dragball] [![mit license][]][repo dragball] <br>
 A Flutter package, inspiration Indonesia e-commerce widget or similiar AssistiveTouch on Iphone.
+
+#### Platform Support
+
+| Android | iOS | MacOS | Web | Linux | Windows |
+| :-----: | :-: | :---: | :-: | :---: | :-----: |
+|   ✔️    | ✔️  |  ✔️   | ✔️  |  ✔️   |   ✔️    |
 
 ---
 
@@ -12,11 +20,23 @@ A Flutter package, inspiration Indonesia e-commerce widget or similiar Assistive
 [![badge slidecountdown][]][pub slidecountdown] [![mit license][]][repo slidecountdown] <br>
 A Flutter package to create easy slide animation countdown timer.
 
+#### Platform Support
+
+| Android | iOS | MacOS | Web | Linux | Windows |
+| :-----: | :-: | :---: | :-: | :---: | :-----: |
+|   ✔️    | ✔️  |  ✔️   | ✔️  |  ✔️   |   ✔️    |
+
 ---
 
 ### `card_loading`
 [![badge cardloading][]][pub cardloading] [![mit license][]][repo cardloading] <br>
 A Flutter package to create easy create loading card between two colors.
+
+#### Platform Support
+
+| Android | iOS | MacOS | Web | Linux | Windows |
+| :-----: | :-: | :---: | :-: | :---: | :-----: |
+|   ✔️    | ✔️  |  ✔️   | ✔️  |  ✔️   |   ✔️    |
 
 ---
 
@@ -24,11 +44,23 @@ A Flutter package to create easy create loading card between two colors.
 [![badge boarding][]][pub boarding] [![mit license][]][repo boarding] <br>
 A Flutter package to create easy introduction guard with board, based with key.
 
+#### Platform Support
+
+| Android | iOS | MacOS | Web | Linux | Windows |
+| :-----: | :-: | :---: | :-: | :---: | :-----: |
+|   ✔️    | ✔️  |  ✔️   | ✔️  |  ✔️   |   ✔️    |
+
 ---
 
 ### `stream_duration`
 [![badge streamduration][]][pub streamduration] [![mit license][]][repo streamduration] <br>
 A dart package for stream duration.
+
+#### Platform Support
+
+| Android | iOS | MacOS | Web | Linux | Windows |
+| :-----: | :-: | :---: | :-: | :---: | :-----: |
+|   ✔️    | ✔️  |  ✔️   | ✔️  |  ✔️   |   ✔️    |
 
 ----
 
